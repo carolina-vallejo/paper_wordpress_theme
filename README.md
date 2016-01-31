@@ -1,23 +1,23 @@
-Paper Wordpress Theme
+# Paper Wordpress Theme
 
 A beautiful wordpress theme for readers, design and develop by Carolina Vallejo
 
-Demo and Usage
+## Demo and Usage
 
 http://carolinavallejo.x10.mx/paper/
 
-Browser support
+## Browser support
 
-All other modern browsers
++ All other modern browsers
 
-License
+## License
 
 Released under the MIT license: http://opensource.org/licenses/MIT_
 
-Requirements
+## Requirements
 
 Library Bxslilder is used for home slider and is included in this theme package
 
 * * *
 
-Copyright 2016 Carolina Vallejo (web: http://carolinavallejo.x10.mx email: carovallejomar@gmail.com)
+_Copyright 2016 Carolina Vallejo (web: http://carolinavallejo.x10.mx email: carovallejomar@gmail.com)_
