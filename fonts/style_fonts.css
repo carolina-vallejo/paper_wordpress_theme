@@ -1,0 +1,81 @@
+@font-face {
+    font-family: 'dejavu_serifbook';
+    src: url('DejaVuSerif-webfont.eot');
+    src: url('DejaVuSerif-webfont.eot?#iefix') format('embedded-opentype'),
+         url('DejaVuSerif-webfont.woff') format('woff'),
+         url('DejaVuSerif-webfont.ttf') format('truetype'),
+         url('DejaVuSerif-webfont.svg#dejavu_serifbook') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'dejavu_serifitalic';
+    src: url('DejaVuSerif-Italic-webfont.eot');
+    src: url('DejaVuSerif-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('DejaVuSerif-Italic-webfont.woff') format('woff'),
+         url('DejaVuSerif-Italic-webfont.ttf') format('truetype'),
+         url('DejaVuSerif-Italic-webfont.svg#dejavu_serifitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'dejavu_serifbold';
+    src: url('DejaVuSerif-Bold-webfont.eot');
+    src: url('DejaVuSerif-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('DejaVuSerif-Bold-webfont.woff') format('woff'),
+         url('DejaVuSerif-Bold-webfont.ttf') format('truetype'),
+         url('DejaVuSerif-Bold-webfont.svg#dejavu_serifbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'open_sansbold';
+    src: url('OpenSans-Bold-webfont.eot');
+    src: url('OpenSans-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('OpenSans-Bold-webfont.woff') format('woff'),
+         url('OpenSans-Bold-webfont.ttf') format('truetype'),
+         url('OpenSans-Bold-webfont.svg#open_sansbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'open_sanslight';
+    src: url('OpenSans-Light-webfont.eot');
+    src: url('OpenSans-Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('OpenSans-Light-webfont.woff') format('woff'),
+         url('OpenSans-Light-webfont.ttf') format('truetype'),
+         url('OpenSans-Light-webfont.svg#open_sanslight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'open_sanssemibold';
+    src: url('OpenSans-Semibold-webfont.eot');
+    src: url('OpenSans-Semibold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('OpenSans-Semibold-webfont.woff') format('woff'),
+         url('OpenSans-Semibold-webfont.ttf') format('truetype'),
+         url('OpenSans-Semibold-webfont.svg#open_sanssemibold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'open_sansregular';
+    src: url('OpenSans-Regular-webfont.eot');
+    src: url('OpenSans-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('OpenSans-Regular-webfont.woff') format('woff'),
+         url('OpenSans-Regular-webfont.ttf') format('truetype'),
+         url('OpenSans-Regular-webfont.svg#open_sansregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
