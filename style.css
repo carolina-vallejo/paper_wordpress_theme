@@ -112,7 +112,10 @@ blockquote p {
 {
   display: none;
 }
-
+/*---figure---*/
+figure {
+    margin: 0 0 0 0;
+}
 /*-----fallbacks----*/
 
 .imgless{
@@ -941,6 +944,7 @@ h2.comments-title{
     margin-left: 0;
     width: 100%;
     padding-right: 80px;
+    padding-left: 18px;
   } 
 
   /*-----Navegation------*/ 
@@ -966,7 +970,34 @@ h2.comments-title{
   }
   .wrapbtns button{
     opacity: 0.7;
-  }              
+  }
+  .presentation .subtitle{           
+    display:none;
+  }
+  .presentation .entry-title{
+    border-bottom: none;
+  }
+  .home .presentation header{
+    margin: 0 7% 22px 5%;
+    width: 80%;
+  } 
+  .bx-controls.bx-has-pager.bx-has-controls-direction{
+    bottom: 18px;
+    left: calc(7% - 10px);
+  }
+  .stopslider{
+    right: 60px;
+  }
+  .site-branding{
+    padding:4px 8px;
+  }
+  .site-branding img{
+    height: 70px!important;
+    width: auto;
+  }
+  .entry-content, .entry-content p{
+    margin-top: 0;
+  }     
 }
 
 /* ipad doesn't work with vh units, so...*/
