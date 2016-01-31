@@ -12,7 +12,7 @@ http://carolinavallejo.x10.mx/paper/
 
 ## License
 
-Released under the MIT license: http://opensource.org/licenses/MIT_
+Released under the MIT license: http://opensource.org/licenses/MIT
 
 ## Requirements
 
