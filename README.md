@@ -6,11 +6,11 @@ A beautiful wordpress theme for readers, designed and developed by Carolina Vall
 
 http://carolinavallejo.x10.mx/paper/
 
-For include posts in the slider of the home page, please create a category called 'home' and mark with this category each post that you want to include.
+To include posts in the slider of the home page, please create a category called 'home' and mark with this category each post that you want to include.
 
 ## Browser support
 
-+ All other modern browsers
++ All modern browsers
 
 ## License
 
