@@ -14,7 +14,7 @@ To include posts in the slider of the home page, please create a category called
 
 ## License
 
-Released under the MIT license: http://opensource.org/licenses/MIT_
+Released under the MIT license: http://opensource.org/licenses/MIT
 
 ## Requirements
 
