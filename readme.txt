@@ -1,6 +1,6 @@
 Paper Wordpress Theme
 
-A beautiful wordpress theme for readers, design and develop by Carolina Vallejo
+A beautiful wordpress theme for readers, designed and developed by Carolina Vallejo
 
 Demo and Usage
 

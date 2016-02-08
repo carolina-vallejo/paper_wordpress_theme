@@ -38,7 +38,7 @@
 		if ( has_post_thumbnail('46')) {
 			echo get_the_post_thumbnail( '46'); 
 		}else{?>
-			<img src="<?php bloginfo('template_directory')?>/images/logo_theme_ok.png" alt="">			
+			<img src="<?php echo esc_url( get_template_directory_uri() ) ?>/images/logo_theme_ok.png" alt="">			
 		<?php } ?>
 		
 	</a>
@@ -55,7 +55,7 @@
 		if ( has_post_thumbnail('46')) {
 			echo get_the_post_thumbnail( '46'); 
 		}else{?>
-			<img src="<?php bloginfo('template_directory')?>/images/logo_theme_ok.png" alt="">			
+			<img src="<?php echo esc_url( get_template_directory_uri() ) ?>/images/logo_theme_ok.png" alt="">			
 		<?php } ?>
 
 	

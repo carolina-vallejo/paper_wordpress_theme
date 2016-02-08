@@ -1,6 +1,6 @@
 # Paper Wordpress Theme
 
-A beautiful wordpress theme for readers, design and develop by Carolina Vallejo
+A beautiful wordpress theme for readers, designed and developed by Carolina Vallejo
 
 ## Demo and Usage
 
@@ -12,7 +12,7 @@ http://carolinavallejo.x10.mx/paper/
 
 ## License
 
-Released under the MIT license: http://opensource.org/licenses/MIT
+Released under the MIT license: http://opensource.org/licenses/MIT_
 
 ## Requirements
 

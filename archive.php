@@ -20,7 +20,7 @@ get_header(); ?>
 		if ( has_post_thumbnail('86')) {
 			echo get_the_post_thumbnail( '86'); 
 		}else{?>
-			<img src="<?php bloginfo('template_directory')?>/images/noneimg.png" alt="">			
+			<img src="<?php echo esc_url( get_template_directory_uri() ) ?>/images/noneimg.png" alt="">			
 		<?php } ?>
 	</div>
 	<div class="darkmask"></div>

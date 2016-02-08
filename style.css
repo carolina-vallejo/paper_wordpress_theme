@@ -1,12 +1,14 @@
 /*
 Theme Name: paper
-Theme URI: http://carolinavallejo.x10.mx/magazine/
+Theme URI: http://carolinavallejo.x10.mx/paper/
 Description: WordPress for readers
-<a href="http://carolinavallejo.x10.mx">Yours Truly</a>
+<a href="http://carolinavallejo.x10.mx">Carolina Vallejo</a>
 Version: 1.0.0
 Author: Carolina Vallejo
 Author URI: http://carolinavallejo.x10.mx/
-Tags: paper, readers, mobile first, reader
+Tags: paper, readers, mobile-first, reader
+License: Released under the MIT license
+License URI: http://opensource.org/licenses/MIT
 
 */
 
@@ -114,7 +116,7 @@ blockquote p {
 }
 /*---figure---*/
 figure {
-    margin: 0 0 0 0;
+    margin: 0 0 20px 0;
 }
 /*-----fallbacks----*/
 
@@ -193,7 +195,9 @@ figcaption {
   padding: 0;
   list-style-image: url('images/bullet.png');
 }
-
+p.must-log-in{
+  font-size: 1.2em;
+}
 /*--------------------------------------------------------------
 ## content
 --------------------------------------------------------------*/
